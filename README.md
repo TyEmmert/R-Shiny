@@ -1,4 +1,4 @@
-# R-Shiny
+# R-Shiny (Self Created Projects)
 All R-Shiny projects
 
 Delta X - ggplots - explore all combinations of the data via ggplot to look for patterns.

@@ -1,5 +1,8 @@
 # R-Shiny (Self Created Projects)
-All R-Shiny projects
+
+<i> All projects have a preview image file to see what the output is </i>
+
+### All R-Shiny projects ###
 
 Delta X - ggplots - explore all combinations of the data via ggplot to look for patterns.
 
